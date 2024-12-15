@@ -1,0 +1,17 @@
+*{
+    background-color: rgb(104, 93, 93);
+    color: white;
+    padding: 10px;
+}
+
+#nav { 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+#list{
+    display: flex;
+    gap: 50px;
+}
